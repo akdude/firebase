@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "extended-ascent-259010": {
+      "hosting": {
+        "my-app": [
+          "extended-ascent-259010"
+        ]
+      }
+    }
+  }
+}
